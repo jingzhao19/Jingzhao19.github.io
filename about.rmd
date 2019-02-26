@@ -2,6 +2,6 @@
 title: ""
 ---
 
-Loved packages:
-tidyverse
-plotly
+Loved packages:\
+tidyverse\
+plotly\
