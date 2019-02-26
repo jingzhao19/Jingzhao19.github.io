@@ -1,0 +1,19 @@
+name: "Jing Zhao"
+output_dir: "."
+navbar:
+  title: "Jing Zhao"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "CV" 
+      href: Jingzhao_stats_ISU.pdf
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/jingzhao19
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/jingzhao2019/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
+

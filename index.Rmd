@@ -1,0 +1,16 @@
+---
+title: ""
+---
+<link rel="stylesheet" href="styles.css" type="text/css">
+<img src= "IMG.jpg" style="width:20%; border:10px solid; margin-right: 20px" align="left">
+
+Currently a Master student major in Statisics and a statisical consultant who provides guidance to graduate students, postdocs,and faculties at [Iowa State University](https://www.iastate.edu/). Strong expertise in computer application with R/SAS. Enthusiastic in machine learning, optimization (LP), and prediction. 
+
+
+
+Jing Zhao\
+jingzhao@iastate.edu\
+2629 Stange Road Ames, IA, 50010
+
+
+
