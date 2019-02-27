@@ -6,7 +6,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "CV" 
-      href: Jingzhao_stats_ISU.pdf
+      href: https://jingzhao19.github.io/JingZhao_stats_ISU.pdf
     - text: "Package"
       href: about.html
   right:
